@@ -1,0 +1,815 @@
+[
+  {
+    "path": "/get-in-touch"
+  },
+  {
+    "path": "/contribute/developers"
+  },
+  {
+    "path": "/contribute"
+  },
+  {
+    "path": "/contribute/about"
+  },
+  {
+    "path": "/get-started/about"
+  },
+  {
+    "path": "/get-started/accessibility-guide"
+  },
+  {
+    "path": "/get-started/developers"
+  },
+  {
+    "path": "/contribute/designers"
+  },
+  {
+    "path": "/get-started/designers"
+  },
+  {
+    "path": "/get-started/migrate"
+  },
+  {
+    "path": "/design-guidelines/content/voice-and-tone"
+  },
+  {
+    "path": "/design-guidelines/content/grammar-and-terminology"
+  },
+  {
+    "path": "/design-guidelines/content/writing"
+  },
+  {
+    "path": "/design-guidelines/styles/colors"
+  },
+  {
+    "path": "/design-guidelines/styles/icons"
+  },
+  {
+    "path": "/design-guidelines/styles/spacers"
+  },
+  {
+    "path": "/design-guidelines/styles/chart-colors"
+  },
+  {
+    "path": "/design-guidelines/styles/typography"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/about-modal"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/buttons-and-links"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/charts"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/empty-state"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/alerts-and-notifications"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/filters"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/data-input"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/lists-and-tables"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/forms"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/progress-bar"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/modal"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/toolbar"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/login"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/wizard"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/text-input"
+  },
+  {
+    "path": "/design-guidelines/usage-and-behavior/navigation-system"
+  },
+  {
+    "path": "/documentation/react/patternfly-4/contributing/"
+  },
+  {
+    "path": "/documentation/react/demos/toolbardemo/"
+  },
+  {
+    "path": "/documentation/react/demos/paginationtable/"
+  },
+  {
+    "path": "/documentation/react/inline table/tabletextinput/"
+  },
+  {
+    "path": "/documentation/react/components/alert/"
+  },
+  {
+    "path": "/documentation/react/inline table/inlineedit/"
+  },
+  {
+    "path": "/documentation/react/demos/pagelayout/"
+  },
+  {
+    "path": "/documentation/react/components/accordion/"
+  },
+  {
+    "path": "/documentation/react/components/aboutmodal/"
+  },
+  {
+    "path": "/documentation/react/components/brand/"
+  },
+  {
+    "path": "/documentation/react/components/button/"
+  },
+  {
+    "path": "/documentation/react/components/backgroundimage/"
+  },
+  {
+    "path": "/documentation/react/components/breadcrumb/"
+  },
+  {
+    "path": "/documentation/react/components/badge/"
+  },
+  {
+    "path": "/documentation/react/components/applicationlauncher/"
+  },
+  {
+    "path": "/documentation/react/components/clipboardcopy/"
+  },
+  {
+    "path": "/documentation/react/components/card/"
+  },
+  {
+    "path": "/documentation/react/components/chipgroup/"
+  },
+  {
+    "path": "/documentation/react/components/emptystate/"
+  },
+  {
+    "path": "/documentation/react/components/dropdown/"
+  },
+  {
+    "path": "/documentation/react/components/contextselector/"
+  },
+  {
+    "path": "/documentation/react/components/datalist/"
+  },
+  {
+    "path": "/documentation/react/components/expandable/"
+  },
+  {
+    "path": "/documentation/react/components/formselect/"
+  },
+  {
+    "path": "/documentation/react/components/avatar/"
+  },
+  {
+    "path": "/documentation/react/components/form/"
+  },
+  {
+    "path": "/documentation/react/components/notificationbadge/"
+  },
+  {
+    "path": "/documentation/react/components/inputgroup/"
+  },
+  {
+    "path": "/documentation/react/components/list/"
+  },
+  {
+    "path": "/documentation/react/components/nav/"
+  },
+  {
+    "path": "/documentation/react/components/loginpage/"
+  },
+  {
+    "path": "/documentation/react/components/optionsmenu/"
+  },
+  {
+    "path": "/documentation/react/components/label/"
+  },
+  {
+    "path": "/documentation/react/components/modal/"
+  },
+  {
+    "path": "/documentation/react/components/popover/"
+  },
+  {
+    "path": "/documentation/react/components/progress/"
+  },
+  {
+    "path": "/documentation/react/components/page/"
+  },
+  {
+    "path": "/documentation/react/components/radio/"
+  },
+  {
+    "path": "/documentation/react/components/pagination/"
+  },
+  {
+    "path": "/documentation/react/components/skiptocontent/"
+  },
+  {
+    "path": "/documentation/react/components/tabs/"
+  },
+  {
+    "path": "/documentation/react/components/select/"
+  },
+  {
+    "path": "/documentation/react/components/textinput/"
+  },
+  {
+    "path": "/documentation/react/components/switch/"
+  },
+  {
+    "path": "/documentation/react/components/text/"
+  },
+  {
+    "path": "/documentation/react/components/tooltip/"
+  },
+  {
+    "path": "/documentation/react/components/withouia/"
+  },
+  {
+    "path": "/documentation/react/components/wizard/"
+  },
+  {
+    "path": "/documentation/react/components/title/"
+  },
+  {
+    "path": "/documentation/react/virtual scroll/virtualized/"
+  },
+  {
+    "path": "/documentation/react/components/textarea/"
+  },
+  {
+    "path": "/documentation/react/components/table/"
+  },
+  {
+    "path": "/documentation/react/virtual scroll/windowscroller/"
+  },
+  {
+    "path": "/documentation/react/experimental/button/"
+  },
+  {
+    "path": "/documentation/react/layouts/bullseye/"
+  },
+  {
+    "path": "/documentation/react/experimental/badge/"
+  },
+  {
+    "path": "/documentation/react/experimental/drawer/"
+  },
+  {
+    "path": "/documentation/react/layouts/stack/"
+  },
+  {
+    "path": "/documentation/react/layouts/level/"
+  },
+  {
+    "path": "/documentation/react/layouts/gallery/"
+  },
+  {
+    "path": "/documentation/react/layouts/grid/"
+  },
+  {
+    "path": "/documentation/react/layouts/toolbar/"
+  },
+  {
+    "path": "/documentation/react/demos/pagelayout/pagelayoutdefaultnav/"
+  },
+  {
+    "path": "/documentation/react/demos/pagelayout/pagelayoutexpandablenav/"
+  },
+  {
+    "path": "/documentation/react/demos/pagelayout/pagelayoutgroupsnav/"
+  },
+  {
+    "path": "/documentation/react/demos/pagelayout/pagelayouthorizontalnav/"
+  },
+  {
+    "path": "/documentation/react/demos/pagelayout/pagelayoutmanualnav/"
+  },
+  {
+    "path": "/documentation/react/demos/pagelayout/pagelayoutsimplenav/"
+  },
+  {
+    "path": "/documentation/react/layouts/split/"
+  },
+  {
+    "path": "/documentation/react/components/topology/"
+  },
+  {
+    "path": "/documentation/react/components/checkbox/"
+  },
+  {
+    "path": "/documentation/react/components/loginpage/simpleloginpage/"
+  },
+  {
+    "path": "/documentation/react/components/skiptocontent/simpleskiptocontent/"
+  },
+  {
+    "path": "/documentation/react/components/backgroundimage/simplebackgroundimage/"
+  },
+  {
+    "path": "/documentation/react/charts/chartbar/"
+  },
+  {
+    "path": "/documentation/react/charts/chartdonut/"
+  },
+  {
+    "path": "/documentation/react/charts/chartdonututilization/"
+  },
+  {
+    "path": "/documentation/react/charts/chartline/"
+  },
+  {
+    "path": "/documentation/react/charts/chartarea/"
+  },
+  {
+    "path": "/documentation/react/charts/chartpie/"
+  },
+  {
+    "path": "/documentation/react/charts/chartstack/"
+  },
+  {
+    "path": "/documentation/core/layouts/bullseye"
+  },
+  {
+    "path": "/documentation/core/layouts/bullseye-full"
+  },
+  {
+    "path": "/documentation/core/layouts/grid"
+  },
+  {
+    "path": "/documentation/core/layouts/grid-full"
+  },
+  {
+    "path": "/documentation/core/layouts/gallery"
+  },
+  {
+    "path": "/documentation/core/layouts/gallery-full"
+  },
+  {
+    "path": "/documentation/core/layouts/level"
+  },
+  {
+    "path": "/documentation/core/layouts/level-full"
+  },
+  {
+    "path": "/documentation/core/layouts/flex"
+  },
+  {
+    "path": "/documentation/core/layouts/flex-full"
+  },
+  {
+    "path": "/documentation/core/layouts/stack"
+  },
+  {
+    "path": "/documentation/core/layouts/stack-full"
+  },
+  {
+    "path": "/documentation/core/demos/aboutmodal"
+  },
+  {
+    "path": "/documentation/core/demos/aboutmodal-full"
+  },
+  {
+    "path": "/documentation/core/layouts/split"
+  },
+  {
+    "path": "/documentation/core/layouts/split-full"
+  },
+  {
+    "path": "/documentation/core/demos/cardview"
+  },
+  {
+    "path": "/documentation/core/demos/cardview-full"
+  },
+  {
+    "path": "/documentation/core/demos/alert"
+  },
+  {
+    "path": "/documentation/core/demos/alert-full"
+  },
+  {
+    "path": "/documentation/core/demos/basicforms"
+  },
+  {
+    "path": "/documentation/core/demos/basicforms-full"
+  },
+  {
+    "path": "/documentation/core/demos/modal"
+  },
+  {
+    "path": "/documentation/core/demos/modal-full"
+  },
+  {
+    "path": "/documentation/core/experimental/drawer"
+  },
+  {
+    "path": "/documentation/core/experimental/drawer-full"
+  },
+  {
+    "path": "/documentation/core/demos/datalist"
+  },
+  {
+    "path": "/documentation/core/demos/datalist-full"
+  },
+  {
+    "path": "/documentation/core/components/alertgroup"
+  },
+  {
+    "path": "/documentation/core/components/alertgroup-full"
+  },
+  {
+    "path": "/documentation/core/demos/table"
+  },
+  {
+    "path": "/documentation/core/demos/table-full"
+  },
+  {
+    "path": "/documentation/core/demos/page"
+  },
+  {
+    "path": "/documentation/core/demos/page-full"
+  },
+  {
+    "path": "/documentation/core/components/aboutmodalbox"
+  },
+  {
+    "path": "/documentation/core/components/aboutmodalbox-full"
+  },
+  {
+    "path": "/documentation/core/components/alert"
+  },
+  {
+    "path": "/documentation/core/components/alert-full"
+  },
+  {
+    "path": "/documentation/core/components/accordion"
+  },
+  {
+    "path": "/documentation/core/components/accordion-full"
+  },
+  {
+    "path": "/documentation/core/components/backdrop"
+  },
+  {
+    "path": "/documentation/core/components/backdrop-full"
+  },
+  {
+    "path": "/documentation/core/components/avatar"
+  },
+  {
+    "path": "/documentation/core/components/avatar-full"
+  },
+  {
+    "path": "/documentation/core/components/applauncher"
+  },
+  {
+    "path": "/documentation/core/components/applauncher-full"
+  },
+  {
+    "path": "/documentation/core/components/backgroundimage"
+  },
+  {
+    "path": "/documentation/core/components/backgroundimage-full"
+  },
+  {
+    "path": "/documentation/core/components/badge"
+  },
+  {
+    "path": "/documentation/core/components/badge-full"
+  },
+  {
+    "path": "/documentation/core/components/brand"
+  },
+  {
+    "path": "/documentation/core/components/brand-full"
+  },
+  {
+    "path": "/documentation/core/components/breadcrumb"
+  },
+  {
+    "path": "/documentation/core/components/breadcrumb-full"
+  },
+  {
+    "path": "/documentation/core/components/card"
+  },
+  {
+    "path": "/documentation/core/components/card-full"
+  },
+  {
+    "path": "/documentation/core/components/button"
+  },
+  {
+    "path": "/documentation/core/components/button-full"
+  },
+  {
+    "path": "/documentation/core/components/chip"
+  },
+  {
+    "path": "/documentation/core/components/chip-full"
+  },
+  {
+    "path": "/documentation/core/components/check"
+  },
+  {
+    "path": "/documentation/core/components/check-full"
+  },
+  {
+    "path": "/documentation/core/components/clipboardcopy"
+  },
+  {
+    "path": "/documentation/core/components/clipboardcopy-full"
+  },
+  {
+    "path": "/documentation/core/components/content"
+  },
+  {
+    "path": "/documentation/core/components/content-full"
+  },
+  {
+    "path": "/documentation/core/components/contextselector"
+  },
+  {
+    "path": "/documentation/core/components/contextselector-full"
+  },
+  {
+    "path": "/documentation/core/components/chipgroup"
+  },
+  {
+    "path": "/documentation/core/components/chipgroup-full"
+  },
+  {
+    "path": "/documentation/core/experimental/divider"
+  },
+  {
+    "path": "/documentation/core/experimental/divider-full"
+  },
+  {
+    "path": "/documentation/core/components/emptystate"
+  },
+  {
+    "path": "/documentation/core/components/emptystate-full"
+  },
+  {
+    "path": "/documentation/core/components/datalist"
+  },
+  {
+    "path": "/documentation/core/components/datalist-full"
+  },
+  {
+    "path": "/documentation/core/components/expandable"
+  },
+  {
+    "path": "/documentation/core/components/expandable-full"
+  },
+  {
+    "path": "/documentation/core/components/dropdown"
+  },
+  {
+    "path": "/documentation/core/components/dropdown-full"
+  },
+  {
+    "path": "/documentation/core/components/formcontrol"
+  },
+  {
+    "path": "/documentation/core/components/formcontrol-full"
+  },
+  {
+    "path": "/documentation/core/components/inputgroup"
+  },
+  {
+    "path": "/documentation/core/components/inputgroup-full"
+  },
+  {
+    "path": "/documentation/core/components/list"
+  },
+  {
+    "path": "/documentation/core/components/list-full"
+  },
+  {
+    "path": "/documentation/core/components/form"
+  },
+  {
+    "path": "/documentation/core/components/form-full"
+  },
+  {
+    "path": "/documentation/core/components/modalbox"
+  },
+  {
+    "path": "/documentation/core/components/modalbox-full"
+  },
+  {
+    "path": "/documentation/core/components/label"
+  },
+  {
+    "path": "/documentation/core/components/label-full"
+  },
+  {
+    "path": "/documentation/core/components/nav"
+  },
+  {
+    "path": "/documentation/core/components/nav-full"
+  },
+  {
+    "path": "/documentation/core/components/login"
+  },
+  {
+    "path": "/documentation/core/components/login-full"
+  },
+  {
+    "path": "/documentation/core/components/notificationbadge"
+  },
+  {
+    "path": "/documentation/core/components/notificationbadge-full"
+  },
+  {
+    "path": "/documentation/core/components/pagination"
+  },
+  {
+    "path": "/documentation/core/components/pagination-full"
+  },
+  {
+    "path": "/documentation/core/components/optionsmenu"
+  },
+  {
+    "path": "/documentation/core/components/optionsmenu-full"
+  },
+  {
+    "path": "/documentation/core/components/page"
+  },
+  {
+    "path": "/documentation/core/components/page-full"
+  },
+  {
+    "path": "/documentation/core/components/popover"
+  },
+  {
+    "path": "/documentation/core/components/popover-full"
+  },
+  {
+    "path": "/documentation/core/components/radio"
+  },
+  {
+    "path": "/documentation/core/components/radio-full"
+  },
+  {
+    "path": "/documentation/core/components/switch"
+  },
+  {
+    "path": "/documentation/core/components/switch-full"
+  },
+  {
+    "path": "/documentation/core/components/progress"
+  },
+  {
+    "path": "/documentation/core/components/progress-full"
+  },
+  {
+    "path": "/documentation/core/components/skiptocontent"
+  },
+  {
+    "path": "/documentation/core/components/skiptocontent-full"
+  },
+  {
+    "path": "/documentation/core/components/tabcontent"
+  },
+  {
+    "path": "/documentation/core/components/tabcontent-full"
+  },
+  {
+    "path": "/documentation/core/components/table"
+  },
+  {
+    "path": "/documentation/core/components/table-full"
+  },
+  {
+    "path": "/documentation/core/components/select"
+  },
+  {
+    "path": "/documentation/core/components/select-full"
+  },
+  {
+    "path": "/documentation/core/components/title"
+  },
+  {
+    "path": "/documentation/core/components/title-full"
+  },
+  {
+    "path": "/documentation/core/components/tabs"
+  },
+  {
+    "path": "/documentation/core/components/tabs-full"
+  },
+  {
+    "path": "/documentation/core/components/tooltip"
+  },
+  {
+    "path": "/documentation/core/components/tooltip-full"
+  },
+  {
+    "path": "/documentation/core/components/toolbar"
+  },
+  {
+    "path": "/documentation/core/components/toolbar-full"
+  },
+  {
+    "path": "/documentation/core/components/wizard"
+  },
+  {
+    "path": "/documentation/core/components/wizard-full"
+  },
+  {
+    "path": "/documentation/core/utilities/accessibility"
+  },
+  {
+    "path": "/documentation/core/utilities/accessibility-full"
+  },
+  {
+    "path": "/documentation/core/utilities/boxshadow"
+  },
+  {
+    "path": "/documentation/core/utilities/boxshadow-full"
+  },
+  {
+    "path": "/documentation/core/utilities/display"
+  },
+  {
+    "path": "/documentation/core/utilities/display-full"
+  },
+  {
+    "path": "/documentation/core/utilities/sizing"
+  },
+  {
+    "path": "/documentation/core/utilities/sizing-full"
+  },
+  {
+    "path": "/documentation/core/utilities/alignment"
+  },
+  {
+    "path": "/documentation/core/utilities/alignment-full"
+  },
+  {
+    "path": "/documentation/core/utilities/float"
+  },
+  {
+    "path": "/documentation/core/utilities/float-full"
+  },
+  {
+    "path": "/documentation/core/utilities/flex"
+  },
+  {
+    "path": "/documentation/core/utilities/flex-full"
+  },
+  {
+    "path": "/documentation/core/utilities/spacing"
+  },
+  {
+    "path": "/documentation/core/utilities/spacing-full"
+  },
+  {
+    "path": "/404/"
+  },
+  {
+    "path": "/blog/"
+  },
+  {
+    "path": "/documentation/core/"
+  },
+  {
+    "path": "/documentation/core/css-variables/"
+  },
+  {
+    "path": "/documentation/core/notes/"
+  },
+  {
+    "path": "/documentation/react/"
+  },
+  {
+    "path": "/documentation/react/css-variables/"
+  },
+  {
+    "path": "/documentation/react/notes/"
+  },
+  {
+    "path": "/"
+  },
+  {
+    "path": "/404.html"
+  }
+]
